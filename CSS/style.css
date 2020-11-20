@@ -148,6 +148,10 @@ img{
     padding: 5em;
 }
 
+.info h2{
+    font-size: 1.5em;
+}
+
 .icons__info{
     display: grid;
     
@@ -186,7 +190,7 @@ img{
 }
 
 
-.content-info__text h1{
+.content-info__text h2{
     /* width: 100%; */
     font-size: 2em;
     line-height: 1.2em;
